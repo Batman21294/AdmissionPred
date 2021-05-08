@@ -1,0 +1,11 @@
+Step 1 : Create a new anaconda environment
+            conda create -n AdmissionPred python=3.6.9
+
+Step 2 : Install the requirements.txt file
+
+Step 3 : Create a file named Procfile
+            There is no extension for this.
+            P should be capital
+
+Step 4 : Initialize your project as a git project
+            git init
